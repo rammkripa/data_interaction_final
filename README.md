@@ -2,7 +2,7 @@
 
 ## Papaya Privacy Presents: Your Data Story
 
-Link to deployed site: TBC
+Link to deployed site: (https://yourdatastory.netlify.app/)[https://yourdatastory.netlify.app/]
 
 ## Contributions: Your Data Story
 
