@@ -84,27 +84,53 @@
   <!-- Scrollable Text Container on the Left -->
   <div class="scroll__container">
     <section class="scroll__text" data-section="intro">
-      <h3>Papaya Privacy Presents:</h3>
+     
+      <h2>Papaya Privacy Presents:</h2>
       <h1>Your Data Story</h1>
-
-      <p>Some text introducing Papaya Privacy, as well as the data story the user is about to see</p>
-      <p></p>
+      <p>
+        At Papaya Privacy, we believe in empowering you with insights about your data. This story is a visualization of your browsing habits, based on data collected ethically and transparently through the <a href="https://chromewebstore.google.com/detail/papaya-cookiemonster/llnpmgaejhooellpbbbicjhdfipckdka" target="_blank">Papaya CookieMonster Extension</a>.
+      </p>
+      <p>
+        Explore your browsing patterns, see the websites you visit most often, and uncover which categories of websites take up the majority of your time. This is your data story—yours to understand, control, and act upon.
+      </p>
     </section>
     <section class="scroll__text" data-section="all">
-      <h2>Your Browsing Data: Collection</h2>
-      <p>Papaya Privacy collects your data for sharing through the <a href="https://chromewebstore.google.com/detail/papaya-cookiemonster/llnpmgaejhooellpbbbicjhdfipckdka">Papaya CookieMonster Extension</a></p>
+      <h2>Data Collection</h2>
+
+      <p>
+        Over the past 30 days, <a href="https://chromewebstore.google.com/detail/papaya-cookiemonster/llnpmgaejhooellpbbbicjhdfipckdka">Papaya CookieMonster</a> has collected data on the websites you visit and how much time you spend on each. This data is collected with your consent and kept private until you choose to share it. The data shown here is anonymized and demonstrates how Papaya can visualize your browsing habits, without revealing any personally identifiable traits.
+      </p>
+      <p>
+        On the right, you can see the number of websites you visited per day over the last month. Some days are busier than others—perhaps you’ll notice a spike in visits on workdays or during specific events.
+      </p>
 
     </section>
 
     <section class="scroll__text" data-section="domain">
-      <h2>Your Browsing Data: Most Visited Websites</h2>
-      <p>Here are the most visited web domains by you</p>
+      <h2>Your Most Visited Websites</h2>
+      <p>
+        These are the 20 websites you visited most frequently over the past 30 days. Each bar represents the total number of visits to a specific domain, like <em>google.com</em> or <em>amazon.com</em>. 
+      </p>
+      <p>
+        Do you notice any patterns? Perhaps certain websites dominate your daily routine, such as search engines, social media platforms, or e-commerce sites.
+      </p>
+      <p>
+        Clicking on a bar will filter the data on the right, showing which days you visited that website, and how many times you did so.
+      </p>
     </section>
     <HorizontalBar data={data} fullData={fullData} variable={variable2} bind:filter={filter2} update={updateData} />
 
     <section class="scroll__text" data-section="method">
-      <h2>Your Browsing Data: Most Visited Categories</h2>
-      <p>Here are the most visited categories by you</p>
+      <h2>Most Visited Website Categories</h2>
+      <p>
+        Here, your browsing habits are grouped by categories, such as <strong>Social Media</strong>, <strong>News</strong>, or <strong>Shopping</strong>. This view shows which types of websites take up the most of your time.
+      </p>
+      <p>
+        Are there any surprises?
+      </p>
+      <p>
+        Clicking on a category will filter the chart on the right, showing your activity for that category over time.
+      </p>
     </section>
     <HorizontalBar data={data} fullData={fullData} variable={variable3} bind:filter={filter3} update={updateData} />
   </div>
