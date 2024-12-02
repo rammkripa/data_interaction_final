@@ -33,7 +33,7 @@
               ([key, value]) => ({ key, value })
           )
             .sort((a, b) => d3.descending(a.value, b.value))
-            .slice(0, 10)
+            .slice(0, 20)
         : [];
 
     $: barFullData = fullData
@@ -42,7 +42,7 @@
             ([key, value]) => ({ key, value })
         )
         .sort((a, b) => d3.descending(a.value, b.value))
-        .slice(0, 10)
+        .slice(0, 20)
     : [];
 
     // Filter barData to only include categories in barFullData
@@ -68,7 +68,7 @@
 </script>
 
 <main>
-    <h2> Data Breaches by {variable} </h2>
+    <h2> Website Visits by {variable} </h2>
     <!--  Here is a bar chart showing the number of data breaches, categorized by the {variable} variable. </p>--> 
     <svg {width} {height}>
         <g transform="translate({margin.left}, {margin.top})">
@@ -106,7 +106,7 @@
         <g transform="translate({margin.left}, {margin.top})" bind:this={yAxis} />
 
         <!-- Axis labels -->
-        <text x={width / 2} y={height} text-anchor="middle" fill="black">Count of Data Breaches</text>
+        <text x={width / 2} y={height} text-anchor="middle" fill="black">Number of Website Visits</text>
         <text x={-chartH / 2} y="14" transform="rotate(-90)" text-anchor="middle" fill="black">{variable}</text>
     </svg>
 </main>

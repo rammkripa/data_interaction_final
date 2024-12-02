@@ -5,9 +5,9 @@
     export let fullData;
     export let variable;
 
-    let margin = {top: 10, right: 30, bottom: 30, left: 40};
+    let margin = {top: 10, right: 30, bottom: 60, left: 40};
     let width = 500;
-    let height = 400;
+    let height = 500;
     let chartW = width - margin.left - margin.right;
     let chartH = height - margin.top - margin.bottom;
 
@@ -54,8 +54,8 @@
 </script>
 
 <main>
-    <h2> Number of Data Breaches by {variable} </h2>
-    <p> Here is a chart showing the number of data breaches by {variable} </p>
+    <h2> Number of Websites Visited by {variable} </h2>
+    <p> Here is a chart showing your number of website visits by {variable} </p>
     <svg {width} {height}>
         <g transform="translate({margin.left}, {margin.top})">
             {#each barFullData as d}
@@ -85,7 +85,7 @@
 
         <!-- Axis labels -->
         <text x={width / 2} y={height} text-anchor="middle" fill="white">{variable}</text>
-        <text x={-chartH / 2} y="15" transform="rotate(-90)" text-anchor="middle" fill="white">Count</text>
+        <text x={-chartH / 2} y="15" transform="rotate(-90)" text-anchor="middle" fill="white">Count of Visits</text>
       </svg>
 </main>
 

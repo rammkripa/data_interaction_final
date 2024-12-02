@@ -1,0 +1,390 @@
+Date,Website,Category,Time Spent
+2024-11-01,bbc.com,News,31
+2024-11-01,nytimes.com,News,45
+2024-11-01,facebook.com,Social Media,45
+2024-11-01,nike.com,Health & Fitness,55
+2024-11-01,instagram.com,Social Media,50
+2024-11-01,bbc.com,News,44
+2024-11-01,instagram.com,Social Media,2
+2024-11-01,fitbit.com,Health & Fitness,19
+2024-11-01,slack.com,Work Tools,36
+2024-11-01,udemy.com,Education,22
+2024-11-01,yahoo.com,Search Engines,19
+2024-11-01,facebook.com,Social Media,44
+2024-11-02,epicgames.com,Gaming,27
+2024-11-02,epicgames.com,Gaming,13
+2024-11-02,coinbase.com,Finance,38
+2024-11-02,microsoft.com,Work Tools,54
+2024-11-02,bing.com,Search Engines,2
+2024-11-02,edx.org,Education,29
+2024-11-02,strava.com,Health & Fitness,42
+2024-11-02,bbc.com,News,40
+2024-11-02,paypal.com,Finance,34
+2024-11-02,google.com,Search Engines,11
+2024-11-02,yahoo.com,Search Engines,23
+2024-11-03,chase.com,Finance,16
+2024-11-03,coinbase.com,Finance,25
+2024-11-03,youtube.com,Streaming,14
+2024-11-03,linkedin.com,Social Media,32
+2024-11-03,disneyplus.com,Streaming,17
+2024-11-03,twitch.tv,Gaming,21
+2024-11-03,paypal.com,Finance,23
+2024-11-03,google.com,Search Engines,9
+2024-11-03,reuters.com,News,1
+2024-11-03,nytimes.com,News,32
+2024-11-04,twitter.com,Social Media,34
+2024-11-04,youtube.com,Streaming,34
+2024-11-04,cnn.com,News,28
+2024-11-04,twitter.com,Social Media,32
+2024-11-04,disneyplus.com,Streaming,30
+2024-11-04,chase.com,Finance,51
+2024-11-04,bankofamerica.com,Finance,55
+2024-11-04,slack.com,Work Tools,38
+2024-11-04,cnn.com,News,26
+2024-11-04,google.com,Search Engines,9
+2024-11-04,nytimes.com,News,41
+2024-11-04,walmart.com,E-commerce,41
+2024-11-04,twitter.com,Social Media,54
+2024-11-04,reuters.com,News,21
+2024-11-04,fitbit.com,Health & Fitness,51
+2024-11-04,facebook.com,Social Media,52
+2024-11-04,roblox.com,Gaming,42
+2024-11-04,hulu.com,Streaming,13
+2024-11-04,netflix.com,Streaming,32
+2024-11-05,nytimes.com,News,54
+2024-11-05,twitter.com,Social Media,18
+2024-11-05,netflix.com,Streaming,18
+2024-11-05,cnn.com,News,30
+2024-11-05,microsoft.com,Work Tools,8
+2024-11-05,zoom.us,Work Tools,25
+2024-11-05,edx.org,Education,49
+2024-11-05,microsoft.com,Work Tools,53
+2024-11-05,google.com,Work Tools,22
+2024-11-05,coinbase.com,Finance,54
+2024-11-05,walmart.com,E-commerce,1
+2024-11-05,bankofamerica.com,Finance,26
+2024-11-05,microsoft.com,Work Tools,3
+2024-11-05,etsy.com,E-commerce,31
+2024-11-05,nike.com,Health & Fitness,49
+2024-11-05,disneyplus.com,Streaming,20
+2024-11-05,etsy.com,E-commerce,27
+2024-11-05,walmart.com,E-commerce,13
+2024-11-06,hulu.com,Streaming,43
+2024-11-06,roblox.com,Gaming,12
+2024-11-06,google.com,Work Tools,34
+2024-11-06,ebay.com,E-commerce,52
+2024-11-06,twitter.com,Social Media,57
+2024-11-06,youtube.com,Streaming,19
+2024-11-06,khanacademy.org,Education,39
+2024-11-06,amazon.com,E-commerce,55
+2024-11-06,walmart.com,E-commerce,22
+2024-11-06,bankofamerica.com,Finance,15
+2024-11-06,yahoo.com,Search Engines,53
+2024-11-06,duckduckgo.com,Search Engines,17
+2024-11-06,steam.com,Gaming,30
+2024-11-07,amazon.com,E-commerce,27
+2024-11-07,twitter.com,Social Media,56
+2024-11-07,nytimes.com,News,16
+2024-11-07,fitbit.com,Health & Fitness,8
+2024-11-07,roblox.com,Gaming,46
+2024-11-07,twitter.com,Social Media,7
+2024-11-07,slack.com,Work Tools,57
+2024-11-07,twitch.tv,Gaming,19
+2024-11-07,khanacademy.org,Education,33
+2024-11-07,bing.com,Search Engines,59
+2024-11-07,ebay.com,E-commerce,60
+2024-11-07,twitter.com,Social Media,5
+2024-11-07,nytimes.com,News,42
+2024-11-07,bing.com,Search Engines,34
+2024-11-07,instagram.com,Social Media,19
+2024-11-07,cnn.com,News,2
+2024-11-07,hulu.com,Streaming,28
+2024-11-07,coursera.org,Education,27
+2024-11-07,amazon.com,E-commerce,49
+2024-11-08,nike.com,Health & Fitness,19
+2024-11-08,reuters.com,News,23
+2024-11-08,twitter.com,Social Media,29
+2024-11-08,instagram.com,Social Media,11
+2024-11-08,bbc.com,News,19
+2024-11-08,walmart.com,E-commerce,33
+2024-11-08,edx.org,Education,17
+2024-11-08,twitch.tv,Gaming,36
+2024-11-08,linkedin.com,Social Media,60
+2024-11-08,khanacademy.org,Education,34
+2024-11-08,udemy.com,Education,54
+2024-11-08,disneyplus.com,Streaming,10
+2024-11-08,roblox.com,Gaming,48
+2024-11-08,walmart.com,E-commerce,47
+2024-11-08,facebook.com,Social Media,40
+2024-11-08,duckduckgo.com,Search Engines,37
+2024-11-09,ebay.com,E-commerce,55
+2024-11-09,edx.org,Education,38
+2024-11-09,bankofamerica.com,Finance,25
+2024-11-09,myfitnesspal.com,Health & Fitness,47
+2024-11-09,disneyplus.com,Streaming,33
+2024-11-09,myfitnesspal.com,Health & Fitness,14
+2024-11-09,nytimes.com,News,35
+2024-11-09,chase.com,Finance,47
+2024-11-09,zoom.us,Work Tools,49
+2024-11-09,zoom.us,Work Tools,25
+2024-11-09,duckduckgo.com,Search Engines,7
+2024-11-09,coursera.org,Education,5
+2024-11-09,nike.com,Health & Fitness,17
+2024-11-09,paypal.com,Finance,3
+2024-11-09,youtube.com,Streaming,52
+2024-11-09,twitch.tv,Gaming,54
+2024-11-09,bing.com,Search Engines,29
+2024-11-09,google.com,Work Tools,19
+2024-11-10,disneyplus.com,Streaming,40
+2024-11-10,nike.com,Health & Fitness,38
+2024-11-10,ebay.com,E-commerce,44
+2024-11-10,bankofamerica.com,Finance,5
+2024-11-10,facebook.com,Social Media,41
+2024-11-11,bing.com,Search Engines,27
+2024-11-11,bbc.com,News,10
+2024-11-11,strava.com,Health & Fitness,38
+2024-11-11,linkedin.com,Social Media,17
+2024-11-11,edx.org,Education,8
+2024-11-11,youtube.com,Streaming,19
+2024-11-11,twitch.tv,Gaming,9
+2024-11-11,fitbit.com,Health & Fitness,30
+2024-11-11,myfitnesspal.com,Health & Fitness,35
+2024-11-11,slack.com,Work Tools,58
+2024-11-11,twitch.tv,Gaming,15
+2024-11-11,netflix.com,Streaming,43
+2024-11-12,paypal.com,Finance,38
+2024-11-12,roblox.com,Gaming,49
+2024-11-12,nytimes.com,News,3
+2024-11-12,ebay.com,E-commerce,56
+2024-11-12,google.com,Work Tools,53
+2024-11-12,netflix.com,Streaming,60
+2024-11-12,twitter.com,Social Media,39
+2024-11-12,slack.com,Work Tools,4
+2024-11-12,hulu.com,Streaming,52
+2024-11-13,coursera.org,Education,5
+2024-11-13,facebook.com,Social Media,20
+2024-11-13,twitter.com,Social Media,52
+2024-11-13,nike.com,Health & Fitness,15
+2024-11-13,chase.com,Finance,32
+2024-11-13,microsoft.com,Work Tools,44
+2024-11-13,netflix.com,Streaming,8
+2024-11-13,epicgames.com,Gaming,1
+2024-11-13,reuters.com,News,24
+2024-11-13,bbc.com,News,44
+2024-11-13,reuters.com,News,35
+2024-11-13,yahoo.com,Search Engines,39
+2024-11-13,edx.org,Education,39
+2024-11-13,nytimes.com,News,25
+2024-11-13,duckduckgo.com,Search Engines,60
+2024-11-13,amazon.com,E-commerce,35
+2024-11-14,amazon.com,E-commerce,56
+2024-11-14,hulu.com,Streaming,56
+2024-11-14,coinbase.com,Finance,49
+2024-11-14,strava.com,Health & Fitness,26
+2024-11-14,amazon.com,E-commerce,11
+2024-11-14,amazon.com,E-commerce,52
+2024-11-14,twitter.com,Social Media,15
+2024-11-14,google.com,Search Engines,13
+2024-11-14,ebay.com,E-commerce,48
+2024-11-14,linkedin.com,Social Media,50
+2024-11-14,youtube.com,Streaming,5
+2024-11-14,google.com,Work Tools,20
+2024-11-14,yahoo.com,Search Engines,35
+2024-11-14,youtube.com,Streaming,49
+2024-11-14,chase.com,Finance,41
+2024-11-14,myfitnesspal.com,Health & Fitness,60
+2024-11-15,bbc.com,News,30
+2024-11-15,khanacademy.org,Education,16
+2024-11-15,roblox.com,Gaming,37
+2024-11-15,strava.com,Health & Fitness,38
+2024-11-15,linkedin.com,Social Media,1
+2024-11-15,bing.com,Search Engines,24
+2024-11-15,steam.com,Gaming,49
+2024-11-15,steam.com,Gaming,55
+2024-11-15,chase.com,Finance,31
+2024-11-15,duckduckgo.com,Search Engines,42
+2024-11-15,youtube.com,Streaming,36
+2024-11-15,chase.com,Finance,30
+2024-11-15,walmart.com,E-commerce,56
+2024-11-15,slack.com,Work Tools,24
+2024-11-15,roblox.com,Gaming,46
+2024-11-16,twitch.tv,Gaming,39
+2024-11-16,netflix.com,Streaming,58
+2024-11-16,walmart.com,E-commerce,50
+2024-11-16,strava.com,Health & Fitness,4
+2024-11-16,coinbase.com,Finance,36
+2024-11-16,paypal.com,Finance,47
+2024-11-16,bing.com,Search Engines,51
+2024-11-16,disneyplus.com,Streaming,50
+2024-11-16,coursera.org,Education,46
+2024-11-16,yahoo.com,Search Engines,33
+2024-11-16,google.com,Work Tools,44
+2024-11-16,slack.com,Work Tools,11
+2024-11-16,youtube.com,Streaming,48
+2024-11-16,slack.com,Work Tools,6
+2024-11-16,walmart.com,E-commerce,24
+2024-11-16,slack.com,Work Tools,5
+2024-11-17,microsoft.com,Work Tools,9
+2024-11-17,ebay.com,E-commerce,59
+2024-11-17,fitbit.com,Health & Fitness,9
+2024-11-17,facebook.com,Social Media,48
+2024-11-17,microsoft.com,Work Tools,10
+2024-11-17,myfitnesspal.com,Health & Fitness,5
+2024-11-18,google.com,Work Tools,9
+2024-11-18,nytimes.com,News,34
+2024-11-18,myfitnesspal.com,Health & Fitness,34
+2024-11-18,linkedin.com,Social Media,20
+2024-11-18,twitter.com,Social Media,31
+2024-11-18,steam.com,Gaming,59
+2024-11-18,coinbase.com,Finance,19
+2024-11-18,linkedin.com,Social Media,12
+2024-11-18,yahoo.com,Search Engines,59
+2024-11-18,ebay.com,E-commerce,13
+2024-11-18,bbc.com,News,52
+2024-11-18,bing.com,Search Engines,36
+2024-11-18,steam.com,Gaming,34
+2024-11-18,linkedin.com,Social Media,21
+2024-11-19,slack.com,Work Tools,38
+2024-11-19,khanacademy.org,Education,40
+2024-11-19,nike.com,Health & Fitness,43
+2024-11-19,cnn.com,News,38
+2024-11-19,bing.com,Search Engines,4
+2024-11-19,bbc.com,News,52
+2024-11-20,nike.com,Health & Fitness,40
+2024-11-20,nike.com,Health & Fitness,48
+2024-11-20,nike.com,Health & Fitness,11
+2024-11-20,nytimes.com,News,47
+2024-11-20,linkedin.com,Social Media,33
+2024-11-20,khanacademy.org,Education,25
+2024-11-21,bankofamerica.com,Finance,43
+2024-11-21,microsoft.com,Work Tools,19
+2024-11-21,chase.com,Finance,33
+2024-11-21,udemy.com,Education,48
+2024-11-21,coinbase.com,Finance,29
+2024-11-21,twitter.com,Social Media,47
+2024-11-21,coinbase.com,Finance,4
+2024-11-22,youtube.com,Streaming,10
+2024-11-22,microsoft.com,Work Tools,25
+2024-11-22,nike.com,Health & Fitness,20
+2024-11-22,youtube.com,Streaming,33
+2024-11-22,google.com,Work Tools,52
+2024-11-22,slack.com,Work Tools,9
+2024-11-22,bankofamerica.com,Finance,46
+2024-11-22,paypal.com,Finance,13
+2024-11-22,amazon.com,E-commerce,57
+2024-11-22,google.com,Search Engines,50
+2024-11-22,disneyplus.com,Streaming,36
+2024-11-22,strava.com,Health & Fitness,36
+2024-11-22,myfitnesspal.com,Health & Fitness,57
+2024-11-22,bing.com,Search Engines,6
+2024-11-22,etsy.com,E-commerce,55
+2024-11-22,khanacademy.org,Education,47
+2024-11-22,epicgames.com,Gaming,48
+2024-11-22,microsoft.com,Work Tools,56
+2024-11-22,cnn.com,News,33
+2024-11-23,coinbase.com,Finance,37
+2024-11-23,slack.com,Work Tools,19
+2024-11-23,amazon.com,E-commerce,3
+2024-11-23,facebook.com,Social Media,22
+2024-11-23,instagram.com,Social Media,45
+2024-11-23,steam.com,Gaming,7
+2024-11-23,disneyplus.com,Streaming,29
+2024-11-23,myfitnesspal.com,Health & Fitness,14
+2024-11-23,microsoft.com,Work Tools,52
+2024-11-23,google.com,Work Tools,57
+2024-11-23,myfitnesspal.com,Health & Fitness,44
+2024-11-23,chase.com,Finance,13
+2024-11-23,instagram.com,Social Media,37
+2024-11-23,roblox.com,Gaming,59
+2024-11-23,facebook.com,Social Media,43
+2024-11-23,coinbase.com,Finance,22
+2024-11-24,chase.com,Finance,3
+2024-11-24,disneyplus.com,Streaming,51
+2024-11-24,paypal.com,Finance,58
+2024-11-24,twitch.tv,Gaming,6
+2024-11-24,paypal.com,Finance,3
+2024-11-24,fitbit.com,Health & Fitness,35
+2024-11-25,slack.com,Work Tools,16
+2024-11-25,hulu.com,Streaming,22
+2024-11-25,bing.com,Search Engines,2
+2024-11-25,paypal.com,Finance,7
+2024-11-25,ebay.com,E-commerce,9
+2024-11-25,zoom.us,Work Tools,52
+2024-11-25,instagram.com,Social Media,51
+2024-11-25,epicgames.com,Gaming,18
+2024-11-25,strava.com,Health & Fitness,37
+2024-11-25,edx.org,Education,4
+2024-11-25,bankofamerica.com,Finance,53
+2024-11-25,google.com,Work Tools,13
+2024-11-25,google.com,Search Engines,23
+2024-11-25,edx.org,Education,27
+2024-11-25,reuters.com,News,45
+2024-11-25,cnn.com,News,3
+2024-11-25,nytimes.com,News,12
+2024-11-25,nytimes.com,News,48
+2024-11-26,roblox.com,Gaming,50
+2024-11-26,fitbit.com,Health & Fitness,35
+2024-11-26,walmart.com,E-commerce,50
+2024-11-26,strava.com,Health & Fitness,27
+2024-11-26,amazon.com,E-commerce,11
+2024-11-26,bankofamerica.com,Finance,59
+2024-11-26,bankofamerica.com,Finance,28
+2024-11-26,bing.com,Search Engines,52
+2024-11-26,bankofamerica.com,Finance,3
+2024-11-27,disneyplus.com,Streaming,6
+2024-11-27,strava.com,Health & Fitness,6
+2024-11-27,chase.com,Finance,47
+2024-11-27,microsoft.com,Work Tools,36
+2024-11-27,reuters.com,News,4
+2024-11-27,nike.com,Health & Fitness,37
+2024-11-27,walmart.com,E-commerce,2
+2024-11-27,myfitnesspal.com,Health & Fitness,29
+2024-11-27,coursera.org,Education,43
+2024-11-27,walmart.com,E-commerce,2
+2024-11-27,amazon.com,E-commerce,50
+2024-11-28,cnn.com,News,31
+2024-11-28,paypal.com,Finance,34
+2024-11-28,coinbase.com,Finance,26
+2024-11-28,slack.com,Work Tools,22
+2024-11-28,fitbit.com,Health & Fitness,46
+2024-11-28,khanacademy.org,Education,54
+2024-11-28,roblox.com,Gaming,59
+2024-11-28,google.com,Search Engines,7
+2024-11-28,google.com,Work Tools,27
+2024-11-28,nytimes.com,News,9
+2024-11-29,bbc.com,News,8
+2024-11-29,epicgames.com,Gaming,22
+2024-11-29,bankofamerica.com,Finance,19
+2024-11-29,fitbit.com,Health & Fitness,16
+2024-11-29,paypal.com,Finance,13
+2024-11-29,linkedin.com,Social Media,38
+2024-11-29,strava.com,Health & Fitness,50
+2024-11-29,youtube.com,Streaming,19
+2024-11-29,yahoo.com,Search Engines,57
+2024-11-29,disneyplus.com,Streaming,33
+2024-11-29,nytimes.com,News,7
+2024-11-29,disneyplus.com,Streaming,2
+2024-11-29,yahoo.com,Search Engines,33
+2024-11-29,cnn.com,News,26
+2024-11-29,nytimes.com,News,23
+2024-11-29,linkedin.com,Social Media,4
+2024-11-30,twitch.tv,Gaming,22
+2024-11-30,epicgames.com,Gaming,21
+2024-11-30,coinbase.com,Finance,51
+2024-11-30,linkedin.com,Social Media,10
+2024-11-30,walmart.com,E-commerce,50
+2024-11-30,coursera.org,Education,60
+2024-11-30,linkedin.com,Social Media,5
+2024-11-30,yahoo.com,Search Engines,19
+2024-11-30,duckduckgo.com,Search Engines,25
+2024-11-30,linkedin.com,Social Media,22
+2024-11-30,reuters.com,News,55
+2024-11-30,udemy.com,Education,60
+2024-11-30,microsoft.com,Work Tools,59
+2024-11-30,cnn.com,News,29
+2024-11-30,youtube.com,Streaming,50
+2024-11-30,etsy.com,E-commerce,32
+2024-11-30,reuters.com,News,31
+2024-11-30,disneyplus.com,Streaming,60
+2024-11-30,youtube.com,Streaming,1
+2024-11-30,duckduckgo.com,Search Engines,37
